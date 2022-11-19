@@ -1,0 +1,5 @@
+.carouselImg{
+    height: calc(100vh - 72px) !important;
+    width: 100%;
+    display: block;
+}
